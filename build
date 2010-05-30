@@ -1,0 +1,2 @@
+echo "Build the gem"
+gem build filtering_camping.gemspec
